@@ -1,4 +1,2 @@
-MP3PlayerFinal
-
-A MP3 Player Widget
+A MP3 Player Widget built in Java.
 
